@@ -17,7 +17,7 @@ WechatAddSub
 二、运行说明
 ---
     1.手机投屏到电脑上，测出数字的坐标：
-![image]（https://github.com/llq20133100095/WechatAddSub/blob/master/WechatJiaJian/data/screenshot_example.png）
+![image](https://github.com/llq20133100095/WechatAddSub/blob/master/WechatJiaJian/data/screenshot_example.png)
     
     测出“对”和“错”的坐标位置。把这些坐标填入main.py的loc_2中，并填入需要做的题目数量questions_num，for example：
 ```Java
