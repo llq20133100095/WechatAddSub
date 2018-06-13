@@ -17,6 +17,22 @@ WechatAddSub
 ---
     1.手机投屏到电脑上，测出数字的坐标：
     
+    
+    测出“对”和“错”的坐标位置。把这些坐标填入main.py的loc_2中，并填入需要做的题目数量questions_num，for example：
+    ```javascript
+    loc_2={"top_x":186,
+     "top_y":497,
+     "bottom_x":363,
+     "bottom_y":660,
+     "mouse_corrcet_x":254,
+     "mouse_corrcet_y":849,
+     "mouse_wrong_x":309,
+     "mouse_wrong_y":842,}
+    
+    #the number of questions
+    questions_num=200
+    ```
+    
     2.运行WechatJiaJian中的main.py
     
     
