@@ -220,7 +220,7 @@ if __name__ == '__main__':
         i+=1
         time.sleep(0.6)
         start=time.time()
-#        os.system(command)
+        os.system(command)
         
         #read image
         image_left,image_right,data=contour_split(path,loc)
