@@ -186,7 +186,7 @@ if __name__ == '__main__':
                          loc_2['bottom_y'] - loc_2['top_y'],
                          loc_2['top_x'],
                          loc_2['top_y'])
-    path="./screenshot/temp1.png"
+    path="./screenshot/temp.png"
     
     #basis image: "+" and "-":
     sum_path="./data/sum.png"
